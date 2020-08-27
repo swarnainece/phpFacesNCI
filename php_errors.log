@@ -1,0 +1,103 @@
+[16-Oct-2017 14:38:10 UTC] PHP Warning:  require_once(webcamRequirements/webcamClass.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/webcamRequirements/action.php on line 2
+[16-Oct-2017 14:38:10 UTC] PHP Stack trace:
+[16-Oct-2017 14:38:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 14:38:10 UTC] PHP Fatal error:  require_once(): Failed opening required 'webcamRequirements/webcamClass.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/webcamRequirements/action.php on line 2
+[16-Oct-2017 14:38:10 UTC] PHP Stack trace:
+[16-Oct-2017 14:38:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 14:40:56 UTC] PHP Warning:  require_once(/webcamRequirements/webcamClass.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/webcamRequirements/action.php on line 2
+[16-Oct-2017 14:40:56 UTC] PHP Stack trace:
+[16-Oct-2017 14:40:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 14:40:56 UTC] PHP Fatal error:  require_once(): Failed opening required '/webcamRequirements/webcamClass.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/webcamRequirements/action.php on line 2
+[16-Oct-2017 14:40:56 UTC] PHP Stack trace:
+[16-Oct-2017 14:40:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 14:43:37 UTC] PHP Warning:  require_once(/home/ubuntu/workspace/webcamRequirementswebcamRequirements/connectionClass.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/webcamRequirements/webcamClass.php on line 3
+[16-Oct-2017 14:43:37 UTC] PHP Stack trace:
+[16-Oct-2017 14:43:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 14:43:37 UTC] PHP   2. require_once() /home/ubuntu/workspace/webcamRequirements/action.php:2
+[16-Oct-2017 14:43:37 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace/webcamRequirementswebcamRequirements/connectionClass.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/webcamRequirements/webcamClass.php on line 3
+[16-Oct-2017 14:43:37 UTC] PHP Stack trace:
+[16-Oct-2017 14:43:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 14:43:37 UTC] PHP   2. require_once() /home/ubuntu/workspace/webcamRequirements/action.php:2
+[16-Oct-2017 14:46:27 UTC] PHP Warning:  require_once(webcamRequirements/connectionClass.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/webcamRequirements/webcamClass.php on line 3
+[16-Oct-2017 14:46:27 UTC] PHP Stack trace:
+[16-Oct-2017 14:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 14:46:27 UTC] PHP   2. require_once() /home/ubuntu/workspace/webcamRequirements/action.php:2
+[16-Oct-2017 14:46:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'webcamRequirements/connectionClass.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/webcamRequirements/webcamClass.php on line 3
+[16-Oct-2017 14:46:27 UTC] PHP Stack trace:
+[16-Oct-2017 14:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 14:46:27 UTC] PHP   2. require_once() /home/ubuntu/workspace/webcamRequirements/action.php:2
+[16-Oct-2017 15:20:20 UTC] PHP Warning:  require_once(webcamRequirements/connectionClass.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/webcamRequirements/webcamClass.php on line 3
+[16-Oct-2017 15:20:20 UTC] PHP Stack trace:
+[16-Oct-2017 15:20:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 15:20:20 UTC] PHP   2. require_once() /home/ubuntu/workspace/webcamRequirements/action.php:2
+[16-Oct-2017 15:20:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'webcamRequirements/connectionClass.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/webcamRequirements/webcamClass.php on line 3
+[16-Oct-2017 15:20:20 UTC] PHP Stack trace:
+[16-Oct-2017 15:20:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 15:20:20 UTC] PHP   2. require_once() /home/ubuntu/workspace/webcamRequirements/action.php:2
+[16-Oct-2017 15:27:13 UTC] PHP Warning:  require_once(webcamRequirements/connectionClass.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/webcamRequirements/webcamClass.php on line 3
+[16-Oct-2017 15:27:13 UTC] PHP Stack trace:
+[16-Oct-2017 15:27:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 15:27:13 UTC] PHP   2. require_once() /home/ubuntu/workspace/webcamRequirements/action.php:2
+[16-Oct-2017 15:27:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'webcamRequirements/connectionClass.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/webcamRequirements/webcamClass.php on line 3
+[16-Oct-2017 15:27:13 UTC] PHP Stack trace:
+[16-Oct-2017 15:27:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 15:27:13 UTC] PHP   2. require_once() /home/ubuntu/workspace/webcamRequirements/action.php:2
+[16-Oct-2017 15:32:24 UTC] PHP Warning:  require_once(/webcamRequirements/webcamClass.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/webcamRequirements/action.php on line 2
+[16-Oct-2017 15:32:24 UTC] PHP Stack trace:
+[16-Oct-2017 15:32:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 15:32:24 UTC] PHP Fatal error:  require_once(): Failed opening required '/webcamRequirements/webcamClass.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/webcamRequirements/action.php on line 2
+[16-Oct-2017 15:32:24 UTC] PHP Stack trace:
+[16-Oct-2017 15:32:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 15:36:49 UTC] PHP Warning:  require_once(<?php echo base_url();?>/webcamRequirements/webcamClass.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/webcamRequirements/action.php on line 2
+[16-Oct-2017 15:36:49 UTC] PHP Stack trace:
+[16-Oct-2017 15:36:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 15:36:49 UTC] PHP Fatal error:  require_once(): Failed opening required '<?php echo base_url();?>/webcamRequirements/webcamClass.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/webcamRequirements/action.php on line 2
+[16-Oct-2017 15:36:49 UTC] PHP Stack trace:
+[16-Oct-2017 15:36:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 15:43:32 UTC] PHP Warning:  require_once(/webcamRequirements/webcamClass.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/webcamRequirements/action.php on line 2
+[16-Oct-2017 15:43:32 UTC] PHP Stack trace:
+[16-Oct-2017 15:43:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 15:43:32 UTC] PHP Fatal error:  require_once(): Failed opening required '/webcamRequirements/webcamClass.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/webcamRequirements/action.php on line 2
+[16-Oct-2017 15:43:32 UTC] PHP Stack trace:
+[16-Oct-2017 15:43:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 17:32:31 UTC] PHP Warning:  require_once(/webcamRequirements/webcamClass.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/webcamRequirements/action.php on line 2
+[16-Oct-2017 17:32:31 UTC] PHP Stack trace:
+[16-Oct-2017 17:32:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 17:32:31 UTC] PHP Fatal error:  require_once(): Failed opening required '/webcamRequirements/webcamClass.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/webcamRequirements/action.php on line 2
+[16-Oct-2017 17:32:31 UTC] PHP Stack trace:
+[16-Oct-2017 17:32:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 17:48:44 UTC] PHP Warning:  file_put_contents(webcamImage/20171016174844.jpg): failed to open stream: No such file or directory in /home/ubuntu/workspace/webcamRequirements/action.php on line 31
+[16-Oct-2017 17:48:44 UTC] PHP Stack trace:
+[16-Oct-2017 17:48:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 17:48:44 UTC] PHP   2. webcamClass->showImage() /home/ubuntu/workspace/webcamRequirements/action.php:76
+[16-Oct-2017 17:48:44 UTC] PHP   3. file_put_contents() /home/ubuntu/workspace/webcamRequirements/action.php:31
+[16-Oct-2017 17:54:16 UTC] PHP Warning:  file_put_contents(/webcamImage20171016175416.jpg): failed to open stream: Permission denied in /home/ubuntu/workspace/webcamRequirements/action.php on line 31
+[16-Oct-2017 17:54:16 UTC] PHP Stack trace:
+[16-Oct-2017 17:54:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 17:54:16 UTC] PHP   2. webcamClass->showImage() /home/ubuntu/workspace/webcamRequirements/action.php:76
+[16-Oct-2017 17:54:16 UTC] PHP   3. file_put_contents() /home/ubuntu/workspace/webcamRequirements/action.php:31
+[16-Oct-2017 17:56:01 UTC] PHP Warning:  file_put_contents(assets/image20171016175601.jpg): failed to open stream: No such file or directory in /home/ubuntu/workspace/webcamRequirements/action.php on line 31
+[16-Oct-2017 17:56:01 UTC] PHP Stack trace:
+[16-Oct-2017 17:56:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 17:56:01 UTC] PHP   2. webcamClass->showImage() /home/ubuntu/workspace/webcamRequirements/action.php:76
+[16-Oct-2017 17:56:01 UTC] PHP   3. file_put_contents() /home/ubuntu/workspace/webcamRequirements/action.php:31
+[16-Oct-2017 18:56:14 UTC] PHP Warning:  file_put_contents(webcamImage/20171016185614.jpg): failed to open stream: No such file or directory in /home/ubuntu/workspace/webcamRequirements/action.php on line 30
+[16-Oct-2017 18:56:14 UTC] PHP Stack trace:
+[16-Oct-2017 18:56:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 18:56:14 UTC] PHP   2. webcamClass->showImage() /home/ubuntu/workspace/webcamRequirements/action.php:73
+[16-Oct-2017 18:56:14 UTC] PHP   3. file_put_contents() /home/ubuntu/workspace/webcamRequirements/action.php:30
+[16-Oct-2017 18:58:34 UTC] PHP Warning:  file_put_contents(webcamImage/20171016185834.jpg): failed to open stream: No such file or directory in /home/ubuntu/workspace/webcamRequirements/action.php on line 30
+[16-Oct-2017 18:58:34 UTC] PHP Stack trace:
+[16-Oct-2017 18:58:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 18:58:34 UTC] PHP   2. webcamClass->showImage() /home/ubuntu/workspace/webcamRequirements/action.php:73
+[16-Oct-2017 18:58:34 UTC] PHP   3. file_put_contents() /home/ubuntu/workspace/webcamRequirements/action.php:30
+[16-Oct-2017 19:01:41 UTC] PHP Fatal error:  Call to a member function helper() on a non-object in /home/ubuntu/workspace/webcamRequirements/action.php on line 22
+[16-Oct-2017 19:01:41 UTC] PHP Stack trace:
+[16-Oct-2017 19:01:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 19:01:41 UTC] PHP   2. webcamClass->showImage() /home/ubuntu/workspace/webcamRequirements/action.php:75
+[16-Oct-2017 19:01:41 UTC] PHP   3. webcamClass->getNameWithPath() /home/ubuntu/workspace/webcamRequirements/action.php:32
+[16-Oct-2017 19:10:44 UTC] PHP Warning:  file_put_contents(webcamImage//20171016191044.jpg): failed to open stream: No such file or directory in /home/ubuntu/workspace/webcamRequirements/action.php on line 30
+[16-Oct-2017 19:10:44 UTC] PHP Stack trace:
+[16-Oct-2017 19:10:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/webcamRequirements/action.php:0
+[16-Oct-2017 19:10:44 UTC] PHP   2. webcamClass->showImage() /home/ubuntu/workspace/webcamRequirements/action.php:73
+[16-Oct-2017 19:10:44 UTC] PHP   3. file_put_contents() /home/ubuntu/workspace/webcamRequirements/action.php:30
